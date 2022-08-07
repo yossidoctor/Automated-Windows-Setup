@@ -1,0 +1,23 @@
+Consolidator
+Device
+Device User
+DmClient
+DmClientOnScenarioDownload
+Microsoft Compatibility Appraiser
+Microsoft-Windows-DiskDiagnosticDataCollector
+Microsoft-Windows-DiskDiagnosticResolver
+MicrosoftEdge*
+OfficeTelemetry*
+OneDrive*
+ProgramDataUpdater
+Proxy
+QueueReporting
+ReconcileFeatures
+RefreshCache
+Sqm-Tasks
+StartupAppTask
+UsageDataFlushing
+UsageDataReporting
+Usbceip
+WakeUpAndContinueUpdates
+WakeUpAndScanForUpdates

@@ -1,0 +1,9 @@
+Home -> Display -> Restore resolutions and display setup
+Home -> Display -> notifications -> disable sound
+Home -> Devices -> Bluetooth -> Connect MX Master 2S via bluetooth
+Home -> Devices -> Touchpad -> 3-finger: media, touch - play/pause, four finger gestures: switch desktops and show desktop
+Home -> Time & Region -> Add hebrew
+
+After updating the drivers with Lenovo System Update and windows update,
+turn on memory integrity under core isolation in windows security
+(it checks if all the drivers are compatible).
